@@ -1,0 +1,29 @@
+{
+  "name": "string-to-rgba-to-string",
+  "version": "1.0.0",
+  "description": "Color string to rgba and rgba to string converter.",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CarloDev15/string-to-rgba-to-string"
+  },  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Carlo Caruso",
+    "email": "carlocaruso@outlook.com"
+  },
+  "keywords": [
+    "rgba",
+    "hex",
+    "string",
+    "color",
+    "conversion"
+  ],
+  "dependencies": {
+    "hex-to-rgba": "^2.0.1"
+  }
+}
